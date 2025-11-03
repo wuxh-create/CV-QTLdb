@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 215.43 240.94">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #6fba8d;
+        stroke: #7fc096;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: #fbe8cd;
+        stroke: #e6a966;
+      }
+
+      .st1, .st2 {
+        stroke-linejoin: round;
+      }
+
+      .st3 {
+        fill: #231815;
+        font-family: ArialMT, Arial;
+      }
+
+      .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st3, .st5 {
+        font-size: 12px;
+      }
+
+      .st2 {
+        fill: #dc6d9e;
+        stroke: #d06896;
+        stroke-width: .5px;
+      }
+
+      .st6 {
+        stroke-dasharray: 1.62 1.22;
+        stroke-width: .4px;
+      }
+
+      .st6, .st7 {
+        fill: none;
+        stroke: #152e44;
+        stroke-miterlimit: 8;
+      }
+
+      .st5 {
+        fill: #d83b8f;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st7 {
+        stroke-width: .2px;
+      }
+    </style>
+  </defs>
+  <polygon class="st6" points="55.05 69.03 74.72 41.33 108.79 41.33 89.13 69.03 55.05 69.03"/>
+  <polygon class="st6" points="162.53 69.03 143.58 41.33 108.21 41.33 127.16 69.03 162.53 69.03"/>
+  <polygon class="st1" points="191.47 41.48 30.15 41.48 30.15 34.26 191.47 34.26 191.47 30.66 203.61 37.87 191.47 45.08 191.47 41.48"/>
+  <polygon class="st1" points="191.47 78.98 30.15 78.98 30.15 71.77 191.47 71.77 191.47 68.16 203.61 75.37 191.47 82.59 191.47 78.98"/>
+  <rect class="st2" x="90.3" y="68.45" width="36.4" height="14.42"/>
+  <rect class="st7" x="90.3" y="68.45" width="36.4" height="14.42"/>
+  <rect class="st0" x="53.9" y="68.45" width="36.4" height="14.42"/>
+  <rect class="st7" x="53.9" y="68.45" width="36.4" height="14.42"/>
+  <rect class="st0" x="126.7" y="68.45" width="36.4" height="14.42"/>
+  <rect class="st7" x="126.7" y="68.45" width="36.4" height="14.42"/>
+  <polygon class="st6" points="107.31 140.35 84.67 111.97 51.62 111.97 74.26 140.35 107.31 140.35"/>
+  <polygon class="st6" points="109.05 140.35 129.21 111.97 164.74 111.97 144.58 140.35 109.05 140.35"/>
+  <polygon class="st1" points="192.01 112.11 29.56 112.11 29.56 104.87 192.01 104.87 192.01 101.25 204.2 108.49 192.01 115.73 192.01 112.11"/>
+  <polygon class="st1" points="192.01 149.76 29.56 149.76 29.56 142.52 192.01 142.52 192.01 138.9 204.2 146.14 192.01 153.38 192.01 149.76"/>
+  <rect class="st2" x="89.91" y="102.12" width="36.55" height="14.48"/>
+  <rect class="st7" x="89.91" y="102.12" width="36.55" height="14.48"/>
+  <rect class="st0" x="71.92" y="139.19" width="36.55" height="14.48"/>
+  <rect class="st7" x="71.92" y="139.19" width="36.55" height="14.48"/>
+  <rect class="st0" x="108.47" y="139.19" width="36.55" height="14.48"/>
+  <rect class="st7" x="108.47" y="139.19" width="36.55" height="14.48"/>
+  <text class="st5" transform="translate(21.4 82.59) rotate(-90)"><tspan x="0" y="0">Insertion</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(21.25 148.25) rotate(-90)"><tspan x="0" y="0">Deletion</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st3" transform="translate(98.56 182.97)"><tspan x="0" y="0">Nbp (N &lt; 50)</tspan></text>
+  </g>
+  <rect class="st2" x="72.1" y="174.3" width="23.66" height="9.37"/>
+</svg>

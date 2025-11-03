@@ -1,0 +1,33 @@
+{
+  "name": "dbqtlvar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rm -r .output && rm -r ../public ../server ../nitro.json && nuxt build && cp -r .output/* ../",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^9.3.1",
+    "@quasar/extras": "^1.16.17",
+    "@vueuse/core": "^13.5.0",
+    "echarts": "^5.5.1",
+    "formidable": "^3.5.2",
+    "nuxt": "^3.16.0",
+    "nuxt-echarts": "0.2.6",
+    "nuxt-mongoose": "1.0.6",
+    "nuxt-quasar-ui": "^2.1.12",
+    "quasar": "^2.18.1",
+    "typescript": "^5.8.2",
+    "unhead": "^2.0.0-rc.9",
+    "uuid": "^11.1.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.5",
+    "less": "^4.2.2",
+    "sass": "^1.85.1"
+  }
+}

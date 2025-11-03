@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 215.43 240.94">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-dasharray: 18288 6096;
+        stroke-miterlimit: 8;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15 {
+        fill: none;
+      }
+
+      .st0, .st3, .st4 {
+        stroke: red;
+      }
+
+      .st0, .st6, .st9, .st10, .st13, .st15 {
+        stroke-width: .48px;
+      }
+
+      .st16 {
+        fill: url(#_未命名的渐变_54);
+      }
+
+      .st17 {
+        fill: url(#_未命名的渐变_68);
+      }
+
+      .st18 {
+        fill: url(#_未命名的渐变_79);
+      }
+
+      .st19 {
+        fill: url(#_未命名的渐变_62);
+      }
+
+      .st20 {
+        fill: url(#_未命名的渐变_75);
+      }
+
+      .st21 {
+        fill: url(#_未命名的渐变_63);
+      }
+
+      .st22 {
+        fill: url(#_未命名的渐变_27);
+      }
+
+      .st23 {
+        fill: url(#_未命名的渐变_82);
+      }
+
+      .st24 {
+        fill: url(#_未命名的渐变_67);
+      }
+
+      .st25 {
+        fill: url(#_未命名的渐变_77);
+      }
+
+      .st26 {
+        fill: url(#_未命名的渐变_17);
+      }
+
+      .st27 {
+        fill: url(#_未命名的渐变_8);
+      }
+
+      .st28 {
+        fill: url(#_未命名的渐变_90);
+      }
+
+      .st29 {
+        fill: url(#_未命名的渐变_5);
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st6 {
+        stroke: #4472c4;
+      }
+
+      .st30 {
+        fill: url(#_未命名的渐变_92);
+      }
+
+      .st31 {
+        fill: #fe06ac;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .st31, .st32 {
+        isolation: isolate;
+      }
+
+      .st33 {
+        fill: url(#_未命名的渐变_65);
+      }
+
+      .st34 {
+        fill: url(#_未命名的渐变_66);
+      }
+
+      .st35 {
+        fill: #3f3f3f;
+      }
+
+      .st36 {
+        fill: url(#_未命名的渐变_43);
+      }
+
+      .st2, .st13 {
+        stroke: #ed7d31;
+      }
+
+      .st37 {
+        fill: url(#_未命名的渐变_38);
+      }
+
+      .st38 {
+        fill: #fff;
+      }
+
+      .st3, .st14 {
+        stroke-linecap: square;
+      }
+
+      .st39 {
+        fill: url(#_未命名的渐变_71);
+      }
+
+      .st5 {
+        stroke: #a5a5a5;
+      }
+
+      .st40 {
+        fill: url(#_未命名的渐变_11);
+      }
+
+      .st41 {
+        fill: url(#_未命名的渐变_72);
+      }
+
+      .st42 {
+        fill: url(#_未命名的渐变_53);
+      }
+
+      .st43 {
+        fill: url(#_未命名的渐变_36);
+      }
+
+      .st44 {
+        fill: url(#_未命名的渐变_89);
+      }
+
+      .st45 {
+        fill: url(#_未命名的渐变_37);
+      }
+
+      .st46 {
+        fill: red;
+      }
+
+      .st47 {
+        fill: url(#_未命名的渐变_69);
+      }
+
+      .st48 {
+        fill: url(#_未命名的渐变_80);
+      }
+
+      .st49 {
+        fill: url(#_未命名的渐变_32);
+      }
+
+      .st50 {
+        fill: url(#_未命名的渐变_74);
+      }
+
+      .st51 {
+        fill: url(#_未命名的渐变_57);
+      }
+
+      .st52 {
+        fill: url(#_未命名的渐变_24);
+      }
+
+      .st53 {
+        fill: url(#_未命名的渐变_9);
+      }
+
+      .st8, .st9 {
+        stroke: #70ad47;
+      }
+
+      .st54 {
+        fill: url(#_未命名的渐变_34);
+      }
+
+      .st55 {
+        fill: url(#_未命名的渐变_15);
+      }
+
+      .st56 {
+        fill: url(#_未命名的渐变_44);
+      }
+
+      .st57 {
+        fill: #bfbfbf;
+      }
+
+      .st58 {
+        fill: url(#_未命名的渐变_41);
+      }
+
+      .st10, .st12 {
+        stroke: #5b9bd5;
+      }
+
+      .st59 {
+        fill: url(#_未命名的渐变_6);
+      }
+
+      .st11, .st15 {
+        stroke: #ffc000;
+      }
+
+      .st60 {
+        fill: url(#_未命名的渐变_88);
+      }
+
+      .st61 {
+        fill: url(#_未命名的渐变_35);
+      }
+
+      .st62 {
+        fill: url(#_未命名的渐变_7);
+      }
+
+      .st63 {
+        fill: url(#_未命名的渐变_73);
+      }
+
+      .st64 {
+        fill: url(#_未命名的渐变_33);
+      }
+
+      .st65 {
+        fill: url(#_未命名的渐变_70);
+      }
+
+      .st66 {
+        fill: url(#_未命名的渐变_40);
+      }
+
+      .st67 {
+        fill: url(#_未命名的渐变_87);
+      }
+
+      .st68 {
+        fill: url(#_未命名的渐变_39);
+      }
+
+      .st69 {
+        fill: url(#_未命名的渐变_78);
+      }
+
+      .st70 {
+        fill: url(#_未命名的渐变_42);
+      }
+
+      .st71 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .st72 {
+        fill: url(#_未命名的渐变_49);
+      }
+
+      .st73 {
+        fill: #b20000;
+      }
+
+      .st74 {
+        fill: url(#_未命名的渐变_31);
+      }
+
+      .st75 {
+        fill: url(#_未命名的渐变_48);
+      }
+
+      .st76 {
+        fill: url(#_未命名的渐变_29);
+      }
+
+      .st14 {
+        stroke: #000;
+      }
+
+      .st77 {
+        fill: url(#_未命名的渐变_20);
+      }
+
+      .st78 {
+        fill: url(#_未命名的渐变_13);
+      }
+
+      .st79 {
+        fill: url(#_未命名的渐变_56);
+      }
+
+      .st80 {
+        fill: url(#_未命名的渐变);
+      }
+
+      .st81 {
+        fill: url(#_未命名的渐变_23);
+      }
+
+      .st82 {
+        fill: url(#_未命名的渐变_28);
+      }
+
+      .st83 {
+        fill: url(#_未命名的渐变_12);
+      }
+
+      .st84 {
+        fill: url(#_未命名的渐变_50);
+      }
+
+      .st85 {
+        fill: url(#_未命名的渐变_30);
+      }
+
+      .st86 {
+        fill: url(#_未命名的渐变_60);
+      }
+
+      .st87 {
+        fill: url(#_未命名的渐变_19);
+      }
+
+      .st88 {
+        fill: url(#_未命名的渐变_84);
+      }
+
+      .st89 {
+        fill: url(#_未命名的渐变_83);
+      }
+
+      .st90 {
+        fill: url(#_未命名的渐变_58);
+      }
+
+      .st91 {
+        fill: url(#_未命名的渐变_16);
+      }
+
+      .st92 {
+        fill: url(#_未命名的渐变_22);
+      }
+
+      .st93 {
+        fill: #7f7f7f;
+      }
+
+      .st94 {
+        fill: url(#_未命名的渐变_4);
+      }
+
+      .st95 {
+        fill: url(#_未命名的渐变_45);
+      }
+
+      .st96 {
+        fill: url(#_未命名的渐变_21);
+      }
+
+      .st97 {
+        fill: url(#_未命名的渐变_51);
+      }
+
+      .st98 {
+        fill: url(#_未命名的渐变_14);
+      }
+
+      .st99 {
+        fill: url(#_未命名的渐变_18);
+      }
+
+      .st100 {
+        fill: url(#_未命名的渐变_46);
+      }
+
+      .st101 {
+        fill: url(#_未命名的渐变_86);
+      }
+
+      .st102 {
+        fill: url(#_未命名的渐变_64);
+      }
+
+      .st103 {
+        fill: url(#_未命名的渐变_26);
+      }
+
+      .st104 {
+        fill: url(#_未命名的渐变_52);
+      }
+
+      .st105 {
+        fill: url(#_未命名的渐变_61);
+      }
+
+      .st106 {
+        fill: url(#_未命名的渐变_47);
+      }
+
+      .st107 {
+        fill: url(#_未命名的渐变_10);
+      }
+
+      .st108 {
+        fill: url(#_未命名的渐变_55);
+      }
+
+      .st109 {
+        fill: url(#_未命名的渐变_76);
+      }
+
+      .st110 {
+        fill: url(#_未命名的渐变_59);
+      }
+
+      .st111 {
+        fill: url(#_未命名的渐变_91);
+      }
+
+      .st112 {
+        fill: url(#_未命名的渐变_25);
+      }
+
+      .st113 {
+        fill: url(#_未命名的渐变_85);
+      }
+
+      .st114 {
+        fill: url(#_未命名的渐变_81);
+      }
+
+      .st115 {
+        fill: url(#_未命名的渐变_2);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="73.98" y1="-1022.03" x2="73.98" y2="-1033.46" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="79.96" y1="-1022.03" x2="79.96" y2="-1033.46" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="85.93" y1="-1022.16" x2="85.93" y2="-1033.59" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" x1="91.9" y1="-1022.16" x2="91.9" y2="-1033.59" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_5" data-name="未命名的渐变 5" x1="97.89" y1="-1022.16" x2="97.89" y2="-1033.59" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="103.85" y1="-1022.03" x2="103.85" y2="-1033.46" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="76.25" y1="-1150.61" x2="76.25" y2="-1162.05" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_8" data-name="未命名的渐变 8" x1="82.24" y1="-1150.61" x2="82.24" y2="-1162.05" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_9" data-name="未命名的渐变 9" x1="88.21" y1="-1150.76" x2="88.21" y2="-1162.18" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_10" data-name="未命名的渐变 10" x1="94.18" y1="-1150.76" x2="94.18" y2="-1162.18" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_11" data-name="未命名的渐变 11" x1="100.16" y1="-1150.76" x2="100.16" y2="-1162.18" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_12" data-name="未命名的渐变 12" x1="106.13" y1="-1150.61" x2="106.13" y2="-1162.05" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_13" data-name="未命名的渐变 13" x1="175.02" y1="-1165.41" x2="175.02" y2="-1176.84" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_14" data-name="未命名的渐变 14" x1="181" y1="-1165.41" x2="181" y2="-1176.84" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_15" data-name="未命名的渐变 15" x1="186.97" y1="-1165.53" x2="186.97" y2="-1176.97" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_16" data-name="未命名的渐变 16" x1="192.94" y1="-1165.53" x2="192.94" y2="-1176.97" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_17" data-name="未命名的渐变 17" x1="198.93" y1="-1165.53" x2="198.93" y2="-1176.97" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_18" data-name="未命名的渐变 18" x1="204.89" y1="-1165.41" x2="204.89" y2="-1176.84" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_19" data-name="未命名的渐变 19" x1="69.96" y1="-1075.93" x2="69.96" y2="-1085.45" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_20" data-name="未命名的渐变 20" x1="74.95" y1="-1075.93" x2="74.95" y2="-1085.45" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_21" data-name="未命名的渐变 21" x1="79.92" y1="-1076.03" x2="79.92" y2="-1085.56" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_22" data-name="未命名的渐变 22" x1="84.9" y1="-1076.03" x2="84.9" y2="-1085.56" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_23" data-name="未命名的渐变 23" x1="89.88" y1="-1076.03" x2="89.88" y2="-1085.56" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_24" data-name="未命名的渐变 24" x1="94.86" y1="-1075.93" x2="94.86" y2="-1085.45" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_25" data-name="未命名的渐变 25" x1="67.46" y1="-1175.67" x2="67.46" y2="-1185.2" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_26" data-name="未命名的渐变 26" x1="72.45" y1="-1175.67" x2="72.45" y2="-1185.2" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_27" data-name="未命名的渐变 27" x1="77.43" y1="-1175.78" x2="77.43" y2="-1185.31" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_28" data-name="未命名的渐变 28" x1="82.4" y1="-1175.78" x2="82.4" y2="-1185.31" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="silver"/>
+      <stop offset=".25" stop-color="#c8c8c8"/>
+      <stop offset=".5" stop-color="#d2d2d2"/>
+      <stop offset=".75" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="silver"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_29" data-name="未命名的渐变 29" x1="92.36" y1="-1175.67" x2="92.36" y2="-1185.2" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_30" data-name="未命名的渐变 30" x1="68.51" y1="-1124.17" x2="68.51" y2="-1133.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#438ac9"/>
+      <stop offset=".25" stop-color="#559bdb"/>
+      <stop offset=".5" stop-color="#71a6db"/>
+      <stop offset=".75" stop-color="#559bdb"/>
+      <stop offset="1" stop-color="#438ac9"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_31" data-name="未命名的渐变 31" x1="73.5" y1="-1124.17" x2="73.5" y2="-1133.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e56b17"/>
+      <stop offset=".25" stop-color="#f67b28"/>
+      <stop offset=".5" stop-color="#f18c55"/>
+      <stop offset=".75" stop-color="#f67b28"/>
+      <stop offset="1" stop-color="#e56b17"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_32" data-name="未命名的渐变 32" x1="78.47" y1="-1124.25" x2="78.47" y2="-1133.83" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#61a235"/>
+      <stop offset=".25" stop-color="#6fb242"/>
+      <stop offset=".5" stop-color="#81b861"/>
+      <stop offset=".75" stop-color="#6fb242"/>
+      <stop offset="1" stop-color="#61a235"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_33" data-name="未命名的渐变 33" x1="83.45" y1="-1124.25" x2="83.45" y2="-1133.83" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_34" data-name="未命名的渐变 34" x1="171.77" y1="-1144.54" x2="171.77" y2="-1154.06" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_35" data-name="未命名的渐变 35" x1="176.76" y1="-1144.54" x2="176.76" y2="-1154.06" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_36" data-name="未命名的渐变 36" x1="196.67" y1="-1144.8" x2="196.67" y2="-1154.37" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_37" data-name="未命名的渐变 37" x1="186.71" y1="-1144.62" x2="186.71" y2="-1154.2" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_38" data-name="未命名的渐变 38" x1="181.43" y1="-1144.62" x2="181.43" y2="-1154.2" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_39" data-name="未命名的渐变 39" x1="191.65" y1="-1144.62" x2="191.65" y2="-1154.2" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_40" data-name="未命名的渐变 40" x1="169.81" y1="-1113.09" x2="169.81" y2="-1122.61" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_41" data-name="未命名的渐变 41" x1="174.79" y1="-1113.09" x2="174.79" y2="-1122.61" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_42" data-name="未命名的渐变 42" x1="179.78" y1="-1113.2" x2="179.78" y2="-1122.72" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_43" data-name="未命名的渐变 43" x1="184.75" y1="-1113.2" x2="184.75" y2="-1122.72" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_44" data-name="未命名的渐变 44" x1="189.72" y1="-1113.2" x2="189.72" y2="-1122.72" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_45" data-name="未命名的渐变 45" x1="169.88" y1="-1075.29" x2="169.88" y2="-1084.82" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_46" data-name="未命名的渐变 46" x1="174.85" y1="-1075.29" x2="174.85" y2="-1084.82" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_47" data-name="未命名的渐变 47" x1="179.84" y1="-1075.4" x2="179.84" y2="-1084.93" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_48" data-name="未命名的渐变 48" x1="172.88" y1="-1033.79" x2="172.88" y2="-1043.36" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_49" data-name="未命名的渐变 49" x1="177.87" y1="-1033.79" x2="177.87" y2="-1043.36" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_50" data-name="未命名的渐变 50" x1="169.88" y1="-1084.98" x2="169.88" y2="-1094.51" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_51" data-name="未命名的渐变 51" x1="174.85" y1="-1084.98" x2="174.85" y2="-1094.51" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_52" data-name="未命名的渐变 52" x1="179.84" y1="-1085.12" x2="179.84" y2="-1094.64" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_53" data-name="未命名的渐变 53" x1="68.06" y1="-1048.76" x2="68.06" y2="-1058.33" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_54" data-name="未命名的渐变 54" x1="73.04" y1="-1048.91" x2="73.04" y2="-1058.44" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_55" data-name="未命名的渐变 55" x1="78.01" y1="-1048.87" x2="78.01" y2="-1058.39" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_56" data-name="未命名的渐变 56" x1="67.94" y1="-1113.96" x2="67.94" y2="-1123.49" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_57" data-name="未命名的渐变 57" x1="72.92" y1="-1113.96" x2="72.92" y2="-1123.49" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_58" data-name="未命名的渐变 58" x1="77.9" y1="-1114.07" x2="77.9" y2="-1123.59" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_59" data-name="未命名的渐变 59" x1="82.87" y1="-1114.07" x2="82.87" y2="-1123.59" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_60" data-name="未命名的渐变 60" x1="87.86" y1="-1114.07" x2="87.86" y2="-1123.59" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_61" data-name="未命名的渐变 61" x1="92.83" y1="-1113.96" x2="92.83" y2="-1123.49" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_62" data-name="未命名的渐变 62" x1="168.68" y1="-1047.81" x2="168.68" y2="-1057.34" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_63" data-name="未命名的渐变 63" x1="173.67" y1="-1047.81" x2="173.67" y2="-1057.34" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_64" data-name="未命名的渐变 64" x1="178.64" y1="-1047.93" x2="178.64" y2="-1057.46" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_65" data-name="未命名的渐变 65" x1="183.62" y1="-1047.93" x2="183.62" y2="-1057.46" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="silver"/>
+      <stop offset=".25" stop-color="#c8c8c8"/>
+      <stop offset=".5" stop-color="#d2d2d2"/>
+      <stop offset=".75" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="silver"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_66" data-name="未命名的渐变 66" x1="193.58" y1="-1047.81" x2="193.58" y2="-1057.34" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_67" data-name="未命名的渐变 67" x1="173.06" y1="-1207.65" x2="173.06" y2="-1217.17" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#438ac9"/>
+      <stop offset=".25" stop-color="#559bdb"/>
+      <stop offset=".5" stop-color="#71a6db"/>
+      <stop offset=".75" stop-color="#559bdb"/>
+      <stop offset="1" stop-color="#438ac9"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_68" data-name="未命名的渐变 68" x1="178.05" y1="-1207.65" x2="178.05" y2="-1217.17" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e56b17"/>
+      <stop offset=".25" stop-color="#f67b28"/>
+      <stop offset=".5" stop-color="#f18c55"/>
+      <stop offset=".75" stop-color="#f67b28"/>
+      <stop offset="1" stop-color="#e56b17"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_69" data-name="未命名的渐变 69" x1="183.03" y1="-1207.73" x2="183.03" y2="-1217.3" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#61a235"/>
+      <stop offset=".25" stop-color="#6fb242"/>
+      <stop offset=".5" stop-color="#81b861"/>
+      <stop offset=".75" stop-color="#6fb242"/>
+      <stop offset="1" stop-color="#61a235"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_70" data-name="未命名的渐变 70" x1="188" y1="-1207.73" x2="188" y2="-1217.3" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_71" data-name="未命名的渐变 71" x1="68.78" y1="-1204.04" x2="68.78" y2="-1213.57" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_72" data-name="未命名的渐变 72" x1="73.77" y1="-1204.04" x2="73.77" y2="-1213.57" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_73" data-name="未命名的渐变 73" x1="93.68" y1="-1204.31" x2="93.68" y2="-1213.88" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_74" data-name="未命名的渐变 74" x1="83.72" y1="-1204.13" x2="83.72" y2="-1213.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_75" data-name="未命名的渐变 75" x1="78.44" y1="-1204.13" x2="78.44" y2="-1213.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#879ed7"/>
+      <stop offset=".25" stop-color="#9aabd9"/>
+      <stop offset=".5" stop-color="#a8b7df"/>
+      <stop offset=".75" stop-color="#9aabd9"/>
+      <stop offset="1" stop-color="#879ed7"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_76" data-name="未命名的渐变 76" x1="88.66" y1="-1204.13" x2="88.66" y2="-1213.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e5b600"/>
+      <stop offset=".25" stop-color="#ffc600"/>
+      <stop offset=".5" stop-color="#ffc746"/>
+      <stop offset=".75" stop-color="#ffc600"/>
+      <stop offset="1" stop-color="#e5b600"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_77" data-name="未命名的渐变 77" x1="69.36" y1="-1003.49" x2="69.36" y2="-1013.01" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_78" data-name="未命名的渐变 78" x1="74.34" y1="-1003.49" x2="74.34" y2="-1013.01" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_79" data-name="未命名的渐变 79" x1="79.33" y1="-1003.6" x2="79.33" y2="-1013.12" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_80" data-name="未命名的渐变 80" x1="84.3" y1="-1003.6" x2="84.3" y2="-1013.12" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#92b9e4"/>
+      <stop offset=".25" stop-color="#a3c1e5"/>
+      <stop offset=".5" stop-color="#b1cbe9"/>
+      <stop offset=".75" stop-color="#a3c1e5"/>
+      <stop offset="1" stop-color="#92b9e4"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_81" data-name="未命名的渐变 81" x1="89.28" y1="-1003.6" x2="89.28" y2="-1013.12" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_82" data-name="未命名的渐变 82" x1="167.32" y1="-1185.62" x2="167.32" y2="-1195.15" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_83" data-name="未命名的渐变 83" x1="172.29" y1="-1185.62" x2="172.29" y2="-1195.15" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_84" data-name="未命名的渐变 84" x1="177.28" y1="-1185.73" x2="177.28" y2="-1195.25" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_85" data-name="未命名的渐变 85" x1="169.28" y1="-1193.12" x2="169.28" y2="-1202.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_86" data-name="未命名的渐变 86" x1="174.26" y1="-1193.12" x2="174.26" y2="-1202.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_87" data-name="未命名的渐变 87" x1="68.52" y1="-1188.92" x2="68.52" y2="-1198.45" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_88" data-name="未命名的渐变 88" x1="73.5" y1="-1188.92" x2="73.5" y2="-1198.45" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_89" data-name="未命名的渐变 89" x1="78.48" y1="-1189.05" x2="78.48" y2="-1198.58" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_90" data-name="未命名的渐变 90" x1="169.99" y1="-1022.13" x2="169.99" y2="-1031.7" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd479"/>
+      <stop offset=".25" stop-color="#ffd78e"/>
+      <stop offset=".5" stop-color="#ffdd9c"/>
+      <stop offset=".75" stop-color="#ffd78e"/>
+      <stop offset="1" stop-color="#ffd479"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_91" data-name="未命名的渐变 91" x1="174.97" y1="-1022.29" x2="174.97" y2="-1031.81" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8a581"/>
+      <stop offset=".25" stop-color="#f5b195"/>
+      <stop offset=".5" stop-color="#f7bda4"/>
+      <stop offset=".75" stop-color="#f5b195"/>
+      <stop offset="1" stop-color="#f8a581"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_92" data-name="未命名的渐变 92" x1="179.94" y1="-1022.24" x2="179.94" y2="-1031.77" gradientTransform="translate(-.06 -988.39) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9cca86"/>
+      <stop offset=".25" stop-color="#aace99"/>
+      <stop offset=".5" stop-color="#b5d5a7"/>
+      <stop offset=".75" stop-color="#aace99"/>
+      <stop offset="1" stop-color="#9cca86"/>
+    </linearGradient>
+  </defs>
+  <line class="st7" x1="46.75" y1="5.25" x2="36.49" y2="5.25"/>
+  <line class="st14" x1="46.75" y1="5.25" x2="36.49" y2="5.25"/>
+  <rect class="st93" x="36.49" y="5.25" width="10.26" height="3.56"/>
+  <rect class="st14" x="36.49" y="5.25" width="10.26" height="3.56"/>
+  <rect class="st38" x="36.49" y="8.81" width="10.26" height="4.3"/>
+  <rect class="st14" x="36.49" y="8.81" width="10.26" height="4.3"/>
+  <rect class="st57" x="36.49" y="13.11" width="10.26" height="3.57"/>
+  <rect class="st14" x="36.49" y="13.11" width="10.26" height="3.57"/>
+  <rect class="st38" x="36.49" y="16.67" width="10.26" height="4.3"/>
+  <rect class="st14" x="36.49" y="16.67" width="10.26" height="4.3"/>
+  <rect class="st57" x="36.49" y="20.98" width="10.26" height="2.23"/>
+  <rect class="st14" x="36.49" y="20.98" width="10.26" height="2.23"/>
+  <rect class="st38" x="36.49" y="23.2" width="10.26" height="2.23"/>
+  <rect class="st14" x="36.49" y="23.2" width="10.26" height="2.23"/>
+  <rect class="st57" x="36.49" y="25.43" width="10.26" height="2.37"/>
+  <rect class="st14" x="36.49" y="25.43" width="10.26" height="2.37"/>
+  <rect class="st38" x="36.49" y="27.8" width="10.26" height="5.64"/>
+  <rect class="st14" x="36.49" y="27.8" width="10.26" height="5.64"/>
+  <rect class="st57" x="36.49" y="33.44" width="10.26" height="4.16"/>
+  <rect class="st14" x="36.49" y="33.44" width="10.26" height="4.16"/>
+  <rect class="st38" x="36.49" y="37.6" width="10.26" height="2.67"/>
+  <rect class="st14" x="36.49" y="37.6" width="10.26" height="2.67"/>
+  <rect class="st35" x="36.49" y="40.27" width="10.26" height="4.01"/>
+  <rect class="st14" x="36.49" y="40.27" width="10.26" height="4.01"/>
+  <rect class="st38" x="36.49" y="44.28" width="10.26" height="5.64"/>
+  <rect class="st14" x="36.49" y="44.28" width="10.26" height="5.64"/>
+  <rect class="st93" x="36.49" y="49.91" width="10.26" height="2.97"/>
+  <rect class="st14" x="36.49" y="49.91" width="10.26" height="2.97"/>
+  <rect class="st38" x="36.49" y="52.88" width="10.26" height="2.37"/>
+  <rect class="st14" x="36.49" y="52.88" width="10.26" height="2.37"/>
+  <rect class="st93" x="36.49" y="55.26" width="10.26" height="7.86"/>
+  <rect class="st14" x="36.49" y="55.26" width="10.26" height="7.86"/>
+  <rect class="st38" x="36.49" y="63.12" width="10.26" height=".74"/>
+  <rect class="st14" x="36.49" y="63.12" width="10.26" height=".74"/>
+  <rect x="36.49" y="63.86" width="10.26" height="15.73"/>
+  <rect class="st14" x="36.49" y="63.86" width="10.26" height="15.73"/>
+  <rect class="st38" x="36.49" y="79.59" width="10.26" height="3.56"/>
+  <rect class="st14" x="36.49" y="79.59" width="10.26" height="3.56"/>
+  <rect class="st35" x="36.49" y="83.15" width="10.26" height="3.71"/>
+  <rect class="st14" x="36.49" y="83.15" width="10.26" height="3.71"/>
+  <rect class="st38" x="36.49" y="86.86" width="10.26" height="2.83"/>
+  <rect class="st14" x="36.49" y="86.86" width="10.26" height="2.83"/>
+  <rect class="st35" x="36.49" y="89.69" width="10.26" height="5.05"/>
+  <rect class="st14" x="36.49" y="89.69" width="10.26" height="5.05"/>
+  <rect class="st38" x="36.49" y="94.73" width="10.26" height="2.67"/>
+  <rect class="st14" x="36.49" y="94.73" width="10.26" height="2.67"/>
+  <rect x="36.49" y="97.4" width="10.26" height="5.19"/>
+  <rect class="st14" x="36.49" y="97.4" width="10.26" height="5.19"/>
+  <rect class="st38" x="36.49" y="102.6" width="10.26" height="4.6"/>
+  <rect class="st14" x="36.49" y="102.6" width="10.26" height="4.6"/>
+  <rect class="st93" x="36.49" y="107.2" width="10.26" height="4.45"/>
+  <rect class="st14" x="36.49" y="107.2" width="10.26" height="4.45"/>
+  <rect class="st38" x="36.49" y="111.65" width="10.26" height="1.78"/>
+  <rect class="st14" x="36.49" y="111.65" width="10.26" height="1.78"/>
+  <rect class="st93" x="36.49" y="113.43" width="10.26" height="2.97"/>
+  <rect class="st14" x="36.49" y="113.43" width="10.26" height="2.97"/>
+  <rect class="st38" x="36.49" y="116.4" width="10.26" height=".89"/>
+  <rect class="st14" x="36.49" y="116.4" width="10.26" height=".89"/>
+  <polygon class="st73" points="36.49 117.29 46.75 117.29 41.62 120.85 36.49 117.29"/>
+  <polygon class="st73" points="36.49 124.86 46.75 124.86 41.62 120.85 36.49 124.86"/>
+  <rect class="st38" x="36.49" y="124.86" width="10.26" height="14.1"/>
+  <rect class="st14" x="36.49" y="124.86" width="10.26" height="14.1"/>
+  <rect class="st38" x="36.49" y="138.95" width="10.26" height="4.6"/>
+  <rect class="st14" x="36.49" y="138.95" width="10.26" height="4.6"/>
+  <rect class="st93" x="36.49" y="143.55" width="10.26" height="3.41"/>
+  <rect class="st14" x="36.49" y="143.55" width="10.26" height="3.41"/>
+  <rect class="st38" x="36.49" y="146.97" width="10.26" height="4.75"/>
+  <rect class="st14" x="36.49" y="146.97" width="10.26" height="4.75"/>
+  <rect class="st93" x="36.49" y="151.72" width="10.26" height="1.63"/>
+  <rect class="st14" x="36.49" y="151.72" width="10.26" height="1.63"/>
+  <rect class="st38" x="36.49" y="153.35" width="10.26" height="2.67"/>
+  <rect class="st14" x="36.49" y="153.35" width="10.26" height="2.67"/>
+  <rect class="st93" x="36.49" y="156.02" width="10.26" height="1.34"/>
+  <rect class="st14" x="36.49" y="156.02" width="10.26" height="1.34"/>
+  <rect class="st38" x="36.49" y="157.35" width="10.26" height="5.19"/>
+  <rect class="st14" x="36.49" y="157.35" width="10.26" height="5.19"/>
+  <rect class="st93" x="36.49" y="162.55" width="10.26" height="1.78"/>
+  <rect class="st14" x="36.49" y="162.55" width="10.26" height="1.78"/>
+  <rect class="st38" x="36.49" y="164.33" width="10.26" height="3.86"/>
+  <rect class="st14" x="36.49" y="164.33" width="10.26" height="3.86"/>
+  <rect class="st35" x="36.49" y="168.19" width="10.26" height="2.08"/>
+  <rect class="st14" x="36.49" y="168.19" width="10.26" height="2.08"/>
+  <rect class="st38" x="36.49" y="170.27" width="10.26" height="3.12"/>
+  <rect class="st14" x="36.49" y="170.27" width="10.26" height="3.12"/>
+  <rect class="st93" x="36.49" y="173.38" width="10.26" height="4.45"/>
+  <rect class="st14" x="36.49" y="173.38" width="10.26" height="4.45"/>
+  <rect class="st38" x="36.49" y="177.83" width="10.26" height="5.64"/>
+  <rect class="st14" x="36.49" y="177.83" width="10.26" height="5.64"/>
+  <rect x="36.49" y="183.47" width="10.26" height="5.19"/>
+  <rect class="st14" x="36.49" y="183.47" width="10.26" height="5.19"/>
+  <rect class="st38" x="36.49" y="188.67" width="10.26" height="3.12"/>
+  <rect class="st14" x="36.49" y="188.67" width="10.26" height="3.12"/>
+  <rect x="36.49" y="191.78" width="10.26" height="5.05"/>
+  <rect class="st14" x="36.49" y="191.78" width="10.26" height="5.05"/>
+  <rect class="st38" x="36.49" y="196.83" width="10.26" height="8.76"/>
+  <rect class="st14" x="36.49" y="196.83" width="10.26" height="8.76"/>
+  <rect class="st57" x="36.49" y="205.58" width="10.26" height="4.31"/>
+  <rect class="st14" x="36.49" y="205.58" width="10.26" height="4.31"/>
+  <rect class="st38" x="36.49" y="209.89" width="10.26" height="3.11"/>
+  <rect class="st14" x="36.49" y="209.89" width="10.26" height="3.11"/>
+  <rect x="36.49" y="213" width="10.26" height="9.95"/>
+  <rect class="st14" x="36.49" y="213" width="10.26" height="9.95"/>
+  <rect class="st38" x="36.49" y="222.95" width="10.26" height=".44"/>
+  <rect class="st14" x="36.49" y="222.95" width="10.26" height=".44"/>
+  <rect class="st57" x="36.49" y="223.39" width="10.26" height="2.53"/>
+  <rect class="st14" x="36.49" y="223.39" width="10.26" height="2.53"/>
+  <rect class="st38" x="36.49" y="225.91" width="10.26" height="3.85"/>
+  <rect class="st14" x="36.49" y="225.91" width="10.26" height="3.85"/>
+  <rect class="st93" x="36.49" y="229.77" width="10.26" height="4.16"/>
+  <rect class="st14" x="36.49" y="229.77" width="10.26" height="4.16"/>
+  <rect class="st38" x="36.49" y="233.93" width="10.26" height="1.93"/>
+  <rect class="st14" x="36.49" y="233.93" width="10.26" height="1.93"/>
+  <line class="st3" x1="46.75" y1="171.16" x2="36.49" y2="171.16"/>
+  <rect class="st3" x="35.47" y="171.01" width="12.31" height=".3"/>
+  <rect class="st3" x="34.44" y="170.86" width="14.36" height=".6"/>
+  <rect class="st3" x="34.44" y="170.86" width="14.36" height=".6"/>
+  <path class="st0" d="M34.38,170.07"/>
+  <path class="st0" d="M34.36,172.68"/>
+  <rect class="st38" x="138.55" y="18.98" width="9.96" height="5.52"/>
+  <rect class="st14" x="138.55" y="18.98" width="9.96" height="5.52"/>
+  <rect x="138.55" y="24.51" width="9.96" height="2.29"/>
+  <rect class="st14" x="138.55" y="24.51" width="9.96" height="2.29"/>
+  <rect class="st38" x="138.55" y="26.79" width="9.96" height="4.58"/>
+  <rect class="st14" x="138.55" y="26.79" width="9.96" height="4.58"/>
+  <rect x="138.55" y="31.37" width="9.96" height="6.46"/>
+  <rect class="st14" x="138.55" y="31.37" width="9.96" height="6.46"/>
+  <rect class="st38" x="138.55" y="37.83" width="9.96" height="4.31"/>
+  <rect class="st14" x="138.55" y="37.83" width="9.96" height="4.31"/>
+  <rect x="138.55" y="42.14" width="9.96" height="6.06"/>
+  <rect class="st14" x="138.55" y="42.14" width="9.96" height="6.06"/>
+  <rect class="st38" x="138.55" y="48.2" width="9.96" height="1.62"/>
+  <rect class="st14" x="138.55" y="48.2" width="9.96" height="1.62"/>
+  <rect x="138.55" y="49.81" width="9.96" height="5.52"/>
+  <rect class="st14" x="138.55" y="49.81" width="9.96" height="5.52"/>
+  <rect class="st38" x="138.55" y="55.33" width="9.96" height="6.06"/>
+  <rect class="st14" x="138.55" y="55.33" width="9.96" height="6.06"/>
+  <rect x="138.55" y="61.39" width="9.96" height="5.79"/>
+  <rect class="st14" x="138.55" y="61.39" width="9.96" height="5.79"/>
+  <rect class="st38" x="138.55" y="67.18" width="9.96" height="5.25"/>
+  <rect class="st14" x="138.55" y="67.18" width="9.96" height="5.25"/>
+  <rect x="138.55" y="72.43" width="9.96" height="4.45"/>
+  <rect class="st14" x="138.55" y="72.43" width="9.96" height="4.45"/>
+  <polygon class="st73" points="138.55 76.88 148.51 76.88 143.54 80.37 138.55 76.88"/>
+  <polygon class="st73" points="138.55 83.6 148.51 83.6 143.54 80.37 138.55 83.6"/>
+  <rect class="st38" x="138.55" y="83.6" width="9.96" height="10.36"/>
+  <rect class="st14" x="138.55" y="83.6" width="9.96" height="10.36"/>
+  <rect x="138.55" y="93.97" width="9.96" height="4.98"/>
+  <rect class="st14" x="138.55" y="93.97" width="9.96" height="4.98"/>
+  <rect class="st38" x="138.55" y="98.95" width="9.96" height=".41"/>
+  <rect class="st14" x="138.55" y="98.95" width="9.96" height=".41"/>
+  <rect x="138.55" y="99.36" width="9.96" height="4.44"/>
+  <rect class="st14" x="138.55" y="99.36" width="9.96" height="4.44"/>
+  <rect class="st38" x="138.55" y="103.8" width="9.96" height="2.02"/>
+  <rect class="st14" x="138.55" y="103.8" width="9.96" height="2.02"/>
+  <rect x="138.55" y="105.82" width="9.96" height="6.19"/>
+  <rect class="st14" x="138.55" y="105.82" width="9.96" height="6.19"/>
+  <rect class="st38" x="138.55" y="112.01" width="9.96" height="4.58"/>
+  <rect class="st14" x="138.55" y="112.01" width="9.96" height="4.58"/>
+  <rect x="138.55" y="116.59" width="9.96" height="5.65"/>
+  <rect class="st14" x="138.55" y="116.59" width="9.96" height="5.65"/>
+  <rect class="st38" x="138.55" y="122.24" width="9.96" height="1.75"/>
+  <rect class="st14" x="138.55" y="122.24" width="9.96" height="1.75"/>
+  <rect x="138.55" y="124" width="9.96" height="11.98"/>
+  <rect class="st14" x="138.55" y="124" width="9.96" height="11.98"/>
+  <rect class="st38" x="138.55" y="135.97" width="9.96" height="7.41"/>
+  <rect class="st14" x="138.55" y="135.97" width="9.96" height="7.41"/>
+  <rect x="138.55" y="143.38" width="9.96" height="5.65"/>
+  <rect class="st14" x="138.55" y="143.38" width="9.96" height="5.65"/>
+  <rect class="st38" x="138.55" y="149.04" width="9.96" height="2.15"/>
+  <rect class="st14" x="138.55" y="149.04" width="9.96" height="2.15"/>
+  <rect x="138.55" y="151.19" width="9.96" height="6.46"/>
+  <rect class="st14" x="138.55" y="151.19" width="9.96" height="6.46"/>
+  <rect class="st38" x="138.55" y="157.65" width="9.96" height="2.42"/>
+  <rect class="st14" x="138.55" y="157.65" width="9.96" height="2.42"/>
+  <rect x="138.55" y="160.07" width="9.96" height="2.02"/>
+  <rect class="st14" x="138.55" y="160.07" width="9.96" height="2.02"/>
+  <rect class="st38" x="138.55" y="162.09" width="9.96" height="2.69"/>
+  <rect class="st14" x="138.55" y="162.09" width="9.96" height="2.69"/>
+  <rect x="138.55" y="164.78" width="9.96" height="7.81"/>
+  <rect class="st14" x="138.55" y="164.78" width="9.96" height="7.81"/>
+  <rect class="st38" x="138.55" y="172.59" width="9.96" height="7.27"/>
+  <rect class="st14" x="138.55" y="172.59" width="9.96" height="7.27"/>
+  <rect x="138.55" y="179.86" width="9.96" height="4.17"/>
+  <rect class="st14" x="138.55" y="179.86" width="9.96" height="4.17"/>
+  <rect class="st38" x="138.55" y="184.03" width="9.96" height="7.13"/>
+  <rect class="st14" x="138.55" y="184.03" width="9.96" height="7.13"/>
+  <rect x="138.55" y="191.17" width="9.96" height="4.04"/>
+  <rect class="st14" x="138.55" y="191.17" width="9.96" height="4.04"/>
+  <rect class="st38" x="138.55" y="195.21" width="9.96" height="6.33"/>
+  <rect class="st14" x="138.55" y="195.21" width="9.96" height="6.33"/>
+  <rect x="138.55" y="201.54" width="9.96" height="6.59"/>
+  <rect class="st14" x="138.55" y="201.54" width="9.96" height="6.59"/>
+  <rect class="st38" x="138.55" y="208.13" width="9.96" height="3.77"/>
+  <rect class="st14" x="138.55" y="208.13" width="9.96" height="3.77"/>
+  <rect x="138.55" y="211.9" width="9.96" height="3.77"/>
+  <rect class="st14" x="138.55" y="211.9" width="9.96" height="3.77"/>
+  <rect class="st38" x="138.55" y="215.67" width="9.96" height="5.25"/>
+  <rect class="st14" x="138.55" y="215.67" width="9.96" height="5.25"/>
+  <rect x="138.55" y="220.92" width="9.96" height="10.64"/>
+  <rect class="st14" x="138.55" y="220.92" width="9.96" height="10.64"/>
+  <rect class="st38" x="138.55" y="231.56" width="9.96" height="5.39"/>
+  <rect class="st14" x="138.55" y="231.56" width="9.96" height="5.39"/>
+  <rect class="st3" x="138.55" y="185.11" width="9.96" height=".54"/>
+  <rect class="st3" x="137.55" y="184.98" width="11.95" height=".81"/>
+  <rect class="st3" x="136.57" y="184.84" width="10.91" height="1.08"/>
+  <line class="st3" x1="48.8" y1="42.27" x2="34.44" y2="42.27"/>
+  <line class="st3" x1="55.44" y1="42.27" x2="47.26" y2="42.27"/>
+  <line class="st4" x1="34.36" y1="42.32" x2="70.95" y2="42.25"/>
+  <ellipse class="st80" cx="73.92" cy="42.21" rx="2.99" ry="2.86"/>
+  <ellipse class="st13" cx="73.92" cy="42.21" rx="2.99" ry="2.86"/>
+  <ellipse class="st115" cx="79.9" cy="42.21" rx="2.99" ry="2.86"/>
+  <ellipse class="st15" cx="79.9" cy="42.21" rx="2.99" ry="2.86"/>
+  <ellipse class="st71" cx="85.87" cy="42.34" rx="2.98" ry="2.86"/>
+  <ellipse class="st9" cx="85.87" cy="42.34" rx="2.98" ry="2.86"/>
+  <ellipse class="st94" cx="91.84" cy="42.34" rx="2.99" ry="2.86"/>
+  <ellipse class="st10" cx="91.84" cy="42.34" rx="2.99" ry="2.86"/>
+  <ellipse class="st29" cx="97.83" cy="42.34" rx="2.99" ry="2.86"/>
+  <ellipse class="st6" cx="97.83" cy="42.34" rx="2.99" ry="2.86"/>
+  <ellipse class="st59" cx="103.79" cy="42.21" rx="2.98" ry="2.86"/>
+  <ellipse class="st15" cx="103.79" cy="42.21" rx="2.98" ry="2.86"/>
+  <line class="st4" x1="37.64" y1="170.91" x2="73.23" y2="170.84"/>
+  <ellipse class="st62" cx="76.19" cy="170.79" rx="2.99" ry="2.86"/>
+  <ellipse class="st13" cx="76.19" cy="170.79" rx="2.99" ry="2.86"/>
+  <ellipse class="st27" cx="82.18" cy="170.79" rx="2.99" ry="2.86"/>
+  <ellipse class="st15" cx="82.18" cy="170.79" rx="2.99" ry="2.86"/>
+  <ellipse class="st53" cx="88.15" cy="170.93" rx="2.98" ry="2.86"/>
+  <ellipse class="st9" cx="88.15" cy="170.93" rx="2.98" ry="2.86"/>
+  <ellipse class="st107" cx="94.12" cy="170.93" rx="2.99" ry="2.86"/>
+  <ellipse class="st10" cx="94.12" cy="170.93" rx="2.99" ry="2.86"/>
+  <ellipse class="st40" cx="100.1" cy="170.93" rx="2.99" ry="2.86"/>
+  <ellipse class="st6" cx="100.1" cy="170.93" rx="2.99" ry="2.86"/>
+  <ellipse class="st83" cx="106.07" cy="170.79" rx="2.98" ry="2.86"/>
+  <ellipse class="st15" cx="106.07" cy="170.79" rx="2.98" ry="2.86"/>
+  <line class="st4" x1="136.2" y1="185.7" x2="172" y2="185.63"/>
+  <ellipse class="st78" cx="174.96" cy="185.59" rx="2.99" ry="2.86"/>
+  <ellipse class="st13" cx="174.96" cy="185.59" rx="2.99" ry="2.86"/>
+  <ellipse class="st98" cx="180.94" cy="185.59" rx="2.99" ry="2.86"/>
+  <ellipse class="st15" cx="180.94" cy="185.59" rx="2.99" ry="2.86"/>
+  <ellipse class="st55" cx="186.91" cy="185.72" rx="2.98" ry="2.86"/>
+  <ellipse class="st9" cx="186.91" cy="185.72" rx="2.98" ry="2.86"/>
+  <ellipse class="st91" cx="192.88" cy="185.72" rx="2.99" ry="2.86"/>
+  <ellipse class="st10" cx="192.88" cy="185.72" rx="2.99" ry="2.86"/>
+  <ellipse class="st26" cx="198.87" cy="185.72" rx="2.99" ry="2.86"/>
+  <ellipse class="st6" cx="198.87" cy="185.72" rx="2.99" ry="2.86"/>
+  <ellipse class="st99" cx="204.83" cy="185.59" rx="2.98" ry="2.86"/>
+  <ellipse class="st15" cx="204.83" cy="185.59" rx="2.98" ry="2.86"/>
+  <line class="st4" x1="37.55" y1="94.69" x2="67.43" y2="94.57"/>
+  <ellipse class="st87" cx="69.9" cy="94.67" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="69.9" cy="94.67" rx="2.49" ry="2.38"/>
+  <ellipse class="st77" cx="74.89" cy="94.67" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="74.89" cy="94.67" rx="2.49" ry="2.38"/>
+  <ellipse class="st96" cx="79.86" cy="94.79" rx="2.48" ry="2.38"/>
+  <ellipse class="st8" cx="79.86" cy="94.79" rx="2.48" ry="2.38"/>
+  <ellipse class="st92" cx="84.84" cy="94.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st12" cx="84.84" cy="94.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st81" cx="89.82" cy="94.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st1" cx="89.82" cy="94.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st52" cx="94.8" cy="94.67" rx="2.48" ry="2.38"/>
+  <ellipse class="st11" cx="94.8" cy="94.67" rx="2.48" ry="2.38"/>
+  <line class="st4" x1="33.97" y1="194.44" x2="64.94" y2="194.32"/>
+  <path class="st112" d="M64.91,194.42c0-1.32,1.12-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.12,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st8" d="M64.91,194.42c0-1.32,1.12-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.12,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st103" d="M69.9,194.42c0-1.32,1.12-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.12,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st11" d="M69.9,194.42c0-1.32,1.12-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.12,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <ellipse class="st22" cx="77.37" cy="194.53" rx="2.48" ry="2.38"/>
+  <ellipse class="st2" cx="77.37" cy="194.53" rx="2.48" ry="2.38"/>
+  <ellipse class="st82" cx="82.34" cy="194.53" rx="2.49" ry="2.38"/>
+  <ellipse class="st5" cx="82.34" cy="194.53" rx="2.49" ry="2.38"/>
+  <ellipse class="st46" cx="87.33" cy="194.53" rx="2.49" ry="2.38"/>
+  <ellipse class="st4" cx="87.33" cy="194.53" rx="2.49" ry="2.38"/>
+  <path class="st76" d="M89.82,194.42c0-1.32,1.11-2.38,2.48-2.38s2.48,1.07,2.48,2.38-1.11,2.38-2.48,2.38-2.48-1.07-2.48-2.38Z"/>
+  <path class="st11" d="M89.82,194.42c0-1.32,1.11-2.38,2.48-2.38s2.48,1.07,2.48,2.38-1.11,2.38-2.48,2.38-2.48-1.07-2.48-2.38Z"/>
+  <line class="st4" x1="48.29" y1="137" x2="65.98" y2="142.82"/>
+  <ellipse class="st85" cx="68.45" cy="142.92" rx="2.49" ry="2.38"/>
+  <ellipse class="st12" cx="68.45" cy="142.92" rx="2.49" ry="2.38"/>
+  <ellipse class="st74" cx="73.44" cy="142.92" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="73.44" cy="142.92" rx="2.49" ry="2.38"/>
+  <ellipse class="st49" cx="78.41" cy="143.04" rx="2.48" ry="2.39"/>
+  <ellipse class="st8" cx="78.41" cy="143.04" rx="2.48" ry="2.39"/>
+  <ellipse class="st64" cx="83.39" cy="143.04" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="83.39" cy="143.04" rx="2.49" ry="2.39"/>
+  <line class="st4" x1="140.5" y1="163.3" x2="169.24" y2="163.18"/>
+  <ellipse class="st54" cx="171.71" cy="163.28" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="171.71" cy="163.28" rx="2.49" ry="2.38"/>
+  <ellipse class="st61" cx="176.7" cy="163.28" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="176.7" cy="163.28" rx="2.49" ry="2.38"/>
+  <ellipse class="st43" cx="196.61" cy="163.58" rx="2.48" ry="2.39"/>
+  <ellipse class="st8" cx="196.61" cy="163.58" rx="2.48" ry="2.39"/>
+  <ellipse class="st45" cx="186.65" cy="163.4" rx="2.49" ry="2.39"/>
+  <ellipse class="st12" cx="186.65" cy="163.4" rx="2.49" ry="2.39"/>
+  <ellipse class="st37" cx="181.37" cy="163.4" rx="2.49" ry="2.39"/>
+  <ellipse class="st1" cx="181.37" cy="163.4" rx="2.49" ry="2.39"/>
+  <ellipse class="st68" cx="191.59" cy="163.4" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="191.59" cy="163.4" rx="2.49" ry="2.39"/>
+  <line class="st4" x1="137.67" y1="131.85" x2="167.27" y2="131.74"/>
+  <path class="st66" d="M167.27,131.84c0-1.32,1.11-2.38,2.48-2.38s2.48,1.07,2.48,2.38-1.11,2.38-2.48,2.38-2.48-1.07-2.48-2.38Z"/>
+  <path class="st12" d="M167.27,131.84c0-1.32,1.11-2.38,2.48-2.38s2.48,1.07,2.48,2.38-1.11,2.38-2.48,2.38-2.48-1.07-2.48-2.38Z"/>
+  <path class="st58" d="M172.24,131.84c0-1.32,1.11-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.11,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st8" d="M172.24,131.84c0-1.32,1.11-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.11,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <ellipse class="st70" cx="179.72" cy="131.95" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="179.72" cy="131.95" rx="2.49" ry="2.38"/>
+  <ellipse class="st36" cx="184.69" cy="131.95" rx="2.48" ry="2.38"/>
+  <ellipse class="st12" cx="184.69" cy="131.95" rx="2.48" ry="2.38"/>
+  <ellipse class="st56" cx="189.66" cy="131.95" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="189.66" cy="131.95" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="147.53" y1="98.49" x2="167.33" y2="93.92"/>
+  <ellipse class="st95" cx="169.82" cy="94.04" rx="2.48" ry="2.38"/>
+  <ellipse class="st8" cx="169.82" cy="94.04" rx="2.48" ry="2.38"/>
+  <ellipse class="st100" cx="174.79" cy="94.04" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="174.79" cy="94.04" rx="2.49" ry="2.38"/>
+  <ellipse class="st106" cx="179.78" cy="94.15" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="179.78" cy="94.15" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="147.28" y1="53.49" x2="169.5" y2="53.38"/>
+  <ellipse class="st75" cx="172.82" cy="52.57" rx="2.49" ry="2.39"/>
+  <ellipse class="st8" cx="172.82" cy="52.57" rx="2.49" ry="2.39"/>
+  <ellipse class="st72" cx="177.81" cy="52.57" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="177.81" cy="52.57" rx="2.49" ry="2.39"/>
+  <line class="st4" x1="147.53" y1="97.81" x2="167.33" y2="103.63"/>
+  <ellipse class="st84" cx="169.82" cy="103.73" rx="2.48" ry="2.38"/>
+  <ellipse class="st2" cx="169.82" cy="103.73" rx="2.48" ry="2.38"/>
+  <ellipse class="st97" cx="174.79" cy="103.73" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="174.79" cy="103.73" rx="2.49" ry="2.38"/>
+  <ellipse class="st104" cx="179.78" cy="103.86" rx="2.49" ry="2.38"/>
+  <ellipse class="st8" cx="179.78" cy="103.86" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="34.44" y1="67.72" x2="65.27" y2="67.6"/>
+  <ellipse class="st42" cx="68" cy="67.54" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="68" cy="67.54" rx="2.49" ry="2.39"/>
+  <ellipse class="st16" cx="72.98" cy="67.66" rx="2.48" ry="2.38"/>
+  <ellipse class="st2" cx="72.98" cy="67.66" rx="2.48" ry="2.38"/>
+  <ellipse class="st46" cx="82.94" cy="67.66" rx="2.49" ry="2.38"/>
+  <ellipse class="st4" cx="82.94" cy="67.66" rx="2.49" ry="2.38"/>
+  <ellipse class="st108" cx="77.95" cy="67.62" rx="2.49" ry="2.38"/>
+  <ellipse class="st8" cx="77.95" cy="67.62" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="47.46" y1="137.22" x2="65.4" y2="132.65"/>
+  <ellipse class="st79" cx="67.88" cy="132.71" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="67.88" cy="132.71" rx="2.49" ry="2.38"/>
+  <ellipse class="st51" cx="72.86" cy="132.71" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="72.86" cy="132.71" rx="2.49" ry="2.38"/>
+  <ellipse class="st90" cx="77.84" cy="132.82" rx="2.48" ry="2.38"/>
+  <ellipse class="st8" cx="77.84" cy="132.82" rx="2.48" ry="2.38"/>
+  <ellipse class="st110" cx="82.81" cy="132.82" rx="2.49" ry="2.38"/>
+  <ellipse class="st12" cx="82.81" cy="132.82" rx="2.49" ry="2.38"/>
+  <ellipse class="st86" cx="87.8" cy="132.82" rx="2.49" ry="2.38"/>
+  <ellipse class="st1" cx="87.8" cy="132.82" rx="2.49" ry="2.38"/>
+  <ellipse class="st105" cx="92.77" cy="132.71" rx="2.48" ry="2.38"/>
+  <ellipse class="st11" cx="92.77" cy="132.71" rx="2.48" ry="2.38"/>
+  <line class="st4" x1="136.05" y1="66.58" x2="166.15" y2="66.47"/>
+  <ellipse class="st19" cx="168.62" cy="66.57" rx="2.49" ry="2.38"/>
+  <ellipse class="st8" cx="168.62" cy="66.57" rx="2.49" ry="2.38"/>
+  <ellipse class="st21" cx="173.61" cy="66.57" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="173.61" cy="66.57" rx="2.49" ry="2.38"/>
+  <ellipse class="st102" cx="178.58" cy="66.68" rx="2.48" ry="2.38"/>
+  <ellipse class="st2" cx="178.58" cy="66.68" rx="2.48" ry="2.38"/>
+  <ellipse class="st33" cx="183.56" cy="66.68" rx="2.49" ry="2.38"/>
+  <ellipse class="st5" cx="183.56" cy="66.68" rx="2.49" ry="2.38"/>
+  <ellipse class="st46" cx="188.55" cy="66.68" rx="2.49" ry="2.38"/>
+  <ellipse class="st4" cx="188.55" cy="66.68" rx="2.49" ry="2.38"/>
+  <ellipse class="st34" cx="193.52" cy="66.57" rx="2.48" ry="2.38"/>
+  <ellipse class="st11" cx="193.52" cy="66.57" rx="2.48" ry="2.38"/>
+  <line class="st4" x1="142.36" y1="226.41" x2="170.53" y2="226.3"/>
+  <path class="st24" d="M170.51,226.4c0-1.32,1.12-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.11,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st12" d="M170.51,226.4c0-1.32,1.12-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.11,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st17" d="M175.5,226.4c0-1.32,1.11-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.11,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <path class="st2" d="M175.5,226.4c0-1.32,1.11-2.38,2.49-2.38s2.49,1.07,2.49,2.38-1.11,2.38-2.49,2.38-2.49-1.07-2.49-2.38Z"/>
+  <ellipse class="st47" cx="182.97" cy="226.52" rx="2.48" ry="2.4"/>
+  <ellipse class="st8" cx="182.97" cy="226.52" rx="2.48" ry="2.4"/>
+  <ellipse class="st65" cx="187.94" cy="226.52" rx="2.49" ry="2.4"/>
+  <ellipse class="st11" cx="187.94" cy="226.52" rx="2.49" ry="2.4"/>
+  <line class="st4" x1="35.86" y1="222.81" x2="66.25" y2="222.69"/>
+  <ellipse class="st39" cx="68.72" cy="222.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="68.72" cy="222.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st41" cx="73.71" cy="222.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="73.71" cy="222.79" rx="2.49" ry="2.38"/>
+  <ellipse class="st63" cx="93.62" cy="223.09" rx="2.48" ry="2.39"/>
+  <ellipse class="st8" cx="93.62" cy="223.09" rx="2.48" ry="2.39"/>
+  <ellipse class="st50" cx="83.66" cy="222.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st12" cx="83.66" cy="222.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st20" cx="78.38" cy="222.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st1" cx="78.38" cy="222.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st109" cx="88.6" cy="222.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="88.6" cy="222.91" rx="2.49" ry="2.39"/>
+  <line class="st4" x1="36.68" y1="22.26" x2="66.82" y2="22.14"/>
+  <ellipse class="st25" cx="69.3" cy="22.24" rx="2.48" ry="2.38"/>
+  <ellipse class="st12" cx="69.3" cy="22.24" rx="2.48" ry="2.38"/>
+  <ellipse class="st69" cx="74.28" cy="22.24" rx="2.49" ry="2.38"/>
+  <ellipse class="st8" cx="74.28" cy="22.24" rx="2.49" ry="2.38"/>
+  <ellipse class="st18" cx="79.27" cy="22.35" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="79.27" cy="22.35" rx="2.49" ry="2.38"/>
+  <ellipse class="st48" cx="84.24" cy="22.35" rx="2.48" ry="2.38"/>
+  <ellipse class="st12" cx="84.24" cy="22.35" rx="2.48" ry="2.38"/>
+  <ellipse class="st114" cx="89.22" cy="22.35" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="89.22" cy="22.35" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="149.03" y1="207.33" x2="164.78" y2="204.25"/>
+  <ellipse class="st23" cx="167.26" cy="204.37" rx="2.48" ry="2.38"/>
+  <ellipse class="st8" cx="167.26" cy="204.37" rx="2.48" ry="2.38"/>
+  <ellipse class="st89" cx="172.23" cy="204.37" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="172.23" cy="204.37" rx="2.49" ry="2.38"/>
+  <ellipse class="st88" cx="177.22" cy="204.49" rx="2.49" ry="2.38"/>
+  <ellipse class="st2" cx="177.22" cy="204.49" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="149.73" y1="207.45" x2="166.75" y2="211.79"/>
+  <ellipse class="st113" cx="169.22" cy="211.9" rx="2.49" ry="2.39"/>
+  <ellipse class="st8" cx="169.22" cy="211.9" rx="2.49" ry="2.39"/>
+  <ellipse class="st101" cx="174.2" cy="211.9" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="174.2" cy="211.9" rx="2.49" ry="2.39"/>
+  <line class="st4" x1="35.47" y1="207.68" x2="65.98" y2="207.57"/>
+  <ellipse class="st67" cx="68.46" cy="207.67" rx="2.48" ry="2.38"/>
+  <ellipse class="st2" cx="68.46" cy="207.67" rx="2.48" ry="2.38"/>
+  <ellipse class="st60" cx="73.44" cy="207.67" rx="2.49" ry="2.38"/>
+  <ellipse class="st11" cx="73.44" cy="207.67" rx="2.49" ry="2.38"/>
+  <ellipse class="st44" cx="78.42" cy="207.8" rx="2.49" ry="2.38"/>
+  <ellipse class="st8" cx="78.42" cy="207.8" rx="2.49" ry="2.38"/>
+  <line class="st4" x1="137.55" y1="41.1" x2="167.19" y2="40.98"/>
+  <ellipse class="st28" cx="169.93" cy="40.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st11" cx="169.93" cy="40.91" rx="2.49" ry="2.39"/>
+  <ellipse class="st111" cx="174.91" cy="41.04" rx="2.48" ry="2.38"/>
+  <ellipse class="st2" cx="174.91" cy="41.04" rx="2.48" ry="2.38"/>
+  <ellipse class="st46" cx="184.87" cy="41.04" rx="2.49" ry="2.38"/>
+  <ellipse class="st4" cx="184.87" cy="41.04" rx="2.49" ry="2.38"/>
+  <ellipse class="st30" cx="179.88" cy="40.99" rx="2.49" ry="2.38"/>
+  <ellipse class="st8" cx="179.88" cy="40.99" rx="2.49" ry="2.38"/>
+  <polyline class="st3" points="147.63 98.11 136.36 98.11 136.36 97.52"/>
+  <polyline class="st3" points="48.8 137.29 34.44 137.29 34.44 136.7"/>
+  <polyline class="st3" points="147.63 207.63 136.36 207.63 136.36 207.04"/>
+  <a xlink:href="/Pancan-meQTL/cis">
+    <g class="st32">
+      <text class="st31" transform="translate(18.42 155.61) rotate(-90)"><tspan x="0" y="0">Clinic traits</tspan></text>
+    </g>
+  </a>
+</svg>
