@@ -1,0 +1,1 @@
+import{_ as o,t,v as a,y as r,aq as n}from"./BTGu2dYh.js";const s={};function c(e,_){return a(),t("p",null,r((e._.provides[n]||e.$route).params.token),1)}const p=o(s,[["render",c]]);export{p as default};

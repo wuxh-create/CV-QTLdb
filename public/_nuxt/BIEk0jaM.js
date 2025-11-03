@@ -1,0 +1,1 @@
+import{_ as a,I as r,v as s,A as e,z as c,B as l,bz as p}from"./BTGu2dYh.js";import{_ as m,a as f}from"./Pmj-4jcD.js";import"./CLhFfczW.js";const u={};function d(o,t){const n=m,_=f;return s(),r(_,{view:"lHh Lpr lFf"},{default:e(()=>[c(n,null,{default:e(()=>[t[0]||(t[0]=l(" Empty layout ")),p(o.$slots,"default")]),_:3})]),_:3})}const B=a(u,[["render",d]]);export{B as default};

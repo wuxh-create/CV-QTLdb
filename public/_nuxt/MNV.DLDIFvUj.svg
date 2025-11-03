@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 215.43 240.94">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        font-size: 14px;
+      }
+
+      .st0, .st2, .st3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st0, .st2, .st3, .st4 {
+        fill: #231815;
+      }
+
+      .st1 {
+        fill: #d83b8f;
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st5 {
+        fill: #eb70a7;
+        stroke: #dc6c9e;
+      }
+
+      .st5, .st6, .st7, .st8, .st9 {
+        stroke-linejoin: round;
+      }
+
+      .st5, .st6, .st4 {
+        stroke-width: .5px;
+      }
+
+      .st10 {
+        stroke-miterlimit: 8;
+        stroke-width: .78px;
+      }
+
+      .st10, .st6, .st11 {
+        fill: #4dc1e8;
+      }
+
+      .st10, .st11 {
+        stroke: #4dc1e8;
+      }
+
+      .st2, .st3 {
+        font-size: 12px;
+      }
+
+      .st2, .st12 {
+        isolation: isolate;
+      }
+
+      .st6 {
+        stroke: #4fb7da;
+      }
+
+      .st7 {
+        fill: none;
+        stroke: #e4007f;
+        stroke-width: .75px;
+      }
+
+      .st13 {
+        fill: #514f4e;
+      }
+
+      .st14 {
+        fill: #605f5f;
+      }
+
+      .st8 {
+        fill: #f6b269;
+        stroke: #e3ddcf;
+        stroke-width: 7px;
+      }
+
+      .st4 {
+        stroke: #231815;
+      }
+
+      .st4, .st11, .st15 {
+        stroke-miterlimit: 10;
+      }
+
+      .st11 {
+        fill-rule: evenodd;
+      }
+
+      .st15 {
+        fill: #70c192;
+        stroke: #83c79a;
+      }
+
+      .st9 {
+        fill: #fdeacf;
+        stroke: #eead67;
+      }
+    </style>
+  </defs>
+  <rect class="st9" x="29.77" y="133.17" width="173.31" height="12"/>
+  <rect class="st9" x="29.77" y="116.86" width="173.31" height="12"/>
+  <path class="st4" d="M82.51,177.32c.21-.94-.42-2.27,1.19-2.39h41.35c.15-.81-.33-4.13.24-4.3,1.41-.43.17,3.87,1.51,4.32l41.28.23c.3.14.33.49.47.71.37.9.55,2.72-.48,2.87l-.45-2.66-83.02-.23c-.63-.1-.78.17-1.14.5l-.48,1.43c-.11.88.4,2.33-.48,2.87-.37-1.02-.37-2.13,0-3.35Z"/>
+  <path class="st13" d="M168.56,175.89c.93,1.46.34,3.11.48,4.78-1.37.38-1.04-1.08-.95-1.91.04-.36.95-1.85.48-2.87Z"/>
+  <path class="st14" d="M82.51,180.67c-1.25-.63-.2-2.42,0-3.35v3.35Z"/>
+  <path class="st14" d="M82.99,177.8c.09-.69-.17-.84.48-1.43l-.48,1.43Z"/>
+  <rect class="st5" x="114.08" y="117.03" width="17.18" height="10.96"/>
+  <text class="st0" transform="translate(117.65 127.99)"><tspan x="0" y="0">C</tspan></text>
+  <rect class="st5" x="114.54" y="133.69" width="17.18" height="10.96"/>
+  <text class="st0" transform="translate(118.11 144.65)"><tspan x="0" y="0">G</tspan></text>
+  <rect class="st6" x="132.18" y="117.03" width="17.18" height="10.96"/>
+  <text class="st0" transform="translate(135.83 127.99)"><tspan x="0" y="0">T</tspan></text>
+  <rect class="st6" x="132.64" y="133.69" width="17.18" height="10.96"/>
+  <text class="st0" transform="translate(136.31 144.65)"><tspan x="0" y="0">A</tspan></text>
+  <g class="st12">
+    <g class="st12">
+      <text class="st2" transform="translate(77.99 192.26)"><tspan x="0" y="0">C</tspan></text>
+    </g>
+  </g>
+  <g class="st12">
+    <g class="st12">
+      <text class="st2" transform="translate(165.04 192.26)"><tspan x="0" y="0">T</tspan></text>
+    </g>
+  </g>
+  <rect class="st7" x="114.08" y="115.04" width="35.28" height="29.69"/>
+  <text class="st3" transform="translate(91.3 165.57)"><tspan x="0" y="0">Nbp (N &lt;= 10)</tspan></text>
+  <g class="st12">
+    <g class="st12">
+      <text class="st2" transform="translate(120.53 192.43)"><tspan x="0" y="0">...</tspan></text>
+    </g>
+  </g>
+  <text class="st1" transform="translate(22.04 167.57) rotate(-90)"><tspan x="0" y="0">Haplotype</tspan></text>
+  <g>
+    <polygon class="st11" points="125.17 102.39 127.66 102.39 127.66 79.38 132.64 79.38 132.64 102.39 135.13 102.39 130.15 107.36 125.17 102.39 125.17 102.39"/>
+    <polygon class="st10" points="125.17 102.39 127.66 102.39 127.66 79.38 132.64 79.38 132.64 102.39 135.13 102.39 130.15 107.36 125.17 102.39 125.17 102.39"/>
+  </g>
+  <rect class="st9" x="29.8" y="56.13" width="173.39" height="12.12"/>
+  <rect class="st9" x="29.8" y="39.65" width="173.39" height="12.12"/>
+  <path class="st8" d="M208.63,46.83"/>
+  <path class="st8" d="M31.47,46.83"/>
+  <path class="st8" d="M208.63,61.16"/>
+  <path class="st8" d="M31.47,61.16"/>
+  <circle class="st15" cx="72.39" cy="45.89" r="5.76"/>
+  <circle class="st15" cx="72.44" cy="62.66" r="5.8"/>
+  <rect class="st7" x="122.31" y="36.39" width="18.38" height="35.31"/>
+  <path class="st8" d="M207.45,36.07"/>
+</svg>

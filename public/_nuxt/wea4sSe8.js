@@ -1,0 +1,1 @@
+const o=({variant_type:a,variant_id:t,range:r,page:e=1,pageSize:n=10,sortBy:s="Chromosome",order:i=1})=>$fetch("/api/variant",{method:"GET",params:{variant_type:a,range:r,variant_id:t,page:e,pageSize:n,sortBy:s,order:i}}),h=({variant_type:a,input:t})=>$fetch("/api/variant_hints",{method:"GET",params:{variant_type:a,input:t}});export{o as a,h as q};

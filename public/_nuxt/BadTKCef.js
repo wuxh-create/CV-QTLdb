@@ -1,0 +1,1 @@
+import"./BTGu2dYh.js";const a=""+new URL("eQTL.B1sT9lHH.svg",import.meta.url).href,s=""+new URL("sQTL.6MQN73S1.svg",import.meta.url).href,m=""+new URL("apaQTL.BDf3pCOQ.svg",import.meta.url).href,r=""+new URL("meQTL.DGx7z0Pw.svg",import.meta.url).href,t=""+new URL("gwasQTL.1oQLIrxl.svg",import.meta.url).href;export{m as a,t as c,a as e,r as m,s};
